@@ -23,10 +23,10 @@
      <i>⭐About Me</i>
    </h1>
     <p>
-      I'm Proudly South African.
-      I played Rugby and did Athletics in high school.
-      I'm Passionate about Technology, Biology, Music and Fitness.
-      My curiosity drives me to explore and learn new things, constantly expanding my knowledge.
+      <i> I'm Proudly South African.
+      <i> I played Rugby and did Athletics in high school.
+      <i> I'm Passionate about Technology, Biology, Music and Fitness.
+      <i> My curiosity drives me to explore and learn new things, constantly expanding my knowledge.
     </p>
  </div>
 
