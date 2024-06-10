@@ -20,7 +20,7 @@
 
 <div align="center">
    <h1>
-     <i>⭐About Me</i>
+     <i>About Me</i>
    </h1>
     <p>
       <i> I'm Proudly South African.
